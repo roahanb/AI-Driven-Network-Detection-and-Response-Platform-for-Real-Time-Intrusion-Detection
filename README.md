@@ -2,7 +2,7 @@
 
 A production-ready, multi-tenant NDR SaaS platform with live Suricata packet capture, hybrid ML ensemble (BiLSTM + XGBoost + Isolation Forest), MITRE ATT&CK mapping, real-time WebSocket streaming, and fully automated risk triage — no manual intervention required.
 
-**Live at:** [roahacks.com](https://roahacks.com)
+
 
 ---
 
